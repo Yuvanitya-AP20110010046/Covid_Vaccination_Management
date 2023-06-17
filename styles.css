@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 100px;
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    transition: 0.5s;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #000;
+    text-align: center;
+    padding: 20px;
+}
+form{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 100px;
+    text-align: center;
+}
+label{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+    text-align: left;
+}
+input{
+    height: 30px;
+    width: 300px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+button{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    height: 30px;
+    width: 150px;
+    background-color: #000;
+    color: #fff;    
+    cursor: pointer;
+}
+
+select{
+    height: 30px;
+    width: 300px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    text-align: center;
+}
